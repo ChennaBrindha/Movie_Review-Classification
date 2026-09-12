@@ -26,10 +26,8 @@ The main objective of this project is to:
 * Pandas
 * NumPy
 * NLTK
-* Scikit-learn
-* Matplotlib
-* Seaborn
-* Jupyter Notebook
+* Gensim
+* Colab
 
 ---
 
